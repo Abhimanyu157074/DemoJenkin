@@ -1,0 +1,6 @@
+2018-10-01 11:11:50,265 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Hello:HelloAll:0.0.1-SNAPSHOT @ D:\hyddemo\HelloAll\pom.xml.
+2018-10-01 11:11:53,760 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloAll/src/main/java
+2018-10-01 11:11:53,760 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloAll/src/main/resources
+2018-10-01 11:11:53,760 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloAll/src/test/java
+2018-10-01 11:11:53,760 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HelloAll/src/test/resources
+2018-10-01 11:11:53,822 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Hello:HelloAll:0.0.1-SNAPSHOT @ D:\hyddemo\HelloAll\pom.xml.
