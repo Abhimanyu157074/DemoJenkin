@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.capg&apos; to &apos;FirstDemo/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;HelloAll&apos;&#x0D;&#x0A;- Destination element: &apos;FirstDemo/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;HelloAll/src/main/java/com.capg&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=FirstDemo/src\/main\/java" element1="/src\/main\/java&lt;com.capg" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1538373532801" version="1.0"/>
+</session>
